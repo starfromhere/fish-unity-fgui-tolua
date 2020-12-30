@@ -1,0 +1,48 @@
+
+jixiexiewang.png
+size: 981,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xie_bg
+  rotate: false
+  xy: 2, 202
+  size: 477, 473
+  orig: 477, 473
+  offset: 0, 0
+  index: -1
+xie_body
+  rotate: true
+  xy: 481, 200
+  size: 475, 333
+  orig: 475, 333
+  offset: 0, 0
+  index: -1
+xie_qajzi01
+  rotate: false
+  xy: 2, 2
+  size: 232, 198
+  orig: 232, 198
+  offset: 0, 0
+  index: -1
+xie_qianzi02
+  rotate: false
+  xy: 581, 46
+  size: 169, 152
+  orig: 169, 152
+  offset: 0, 0
+  index: -1
+xie_wenzi
+  rotate: true
+  xy: 816, 189
+  size: 486, 163
+  orig: 486, 163
+  offset: 0, 0
+  index: -1
+xie_wuqi
+  rotate: false
+  xy: 236, 35
+  size: 343, 163
+  orig: 343, 163
+  offset: 0, 0
+  index: -1

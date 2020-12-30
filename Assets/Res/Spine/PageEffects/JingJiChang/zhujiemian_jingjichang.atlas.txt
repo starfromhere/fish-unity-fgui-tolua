@@ -1,0 +1,188 @@
+
+zhujiemian_jingjichang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingji_jbjinbi1
+  rotate: false
+  xy: 69, 4
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+jingji_jbjinbi2
+  rotate: true
+  xy: 296, 10
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+jingji_jbjinbi3
+  rotate: false
+  xy: 480, 550
+  size: 267, 136
+  orig: 267, 136
+  offset: 0, 0
+  index: -1
+jingji_jbjinbi4
+  rotate: false
+  xy: 227, 13
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+jingji_jbzuanshi1
+  rotate: false
+  xy: 358, 23
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+jingji_jbzuanshi2
+  rotate: false
+  xy: 676, 266
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+jingji_jbzuanshi3
+  rotate: false
+  xy: 2, 2
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+jingji_jiangbei
+  rotate: false
+  xy: 2, 67
+  size: 411, 341
+  orig: 411, 341
+  offset: 0, 0
+  index: -1
+jingji_jiangbei1
+  rotate: true
+  xy: 415, 110
+  size: 298, 103
+  orig: 298, 103
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01
+  rotate: false
+  xy: 520, 260
+  size: 154, 162
+  orig: 154, 162
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01_1
+  rotate: false
+  xy: 803, 553
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01_2
+  rotate: true
+  xy: 972, 905
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01_3
+  rotate: false
+  xy: 749, 551
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01_4
+  rotate: false
+  xy: 415, 74
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi01_5
+  rotate: false
+  xy: 972, 991
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi02
+  rotate: false
+  xy: 749, 584
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi02_1
+  rotate: false
+  xy: 972, 960
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+jingji_jinbeibi02_2
+  rotate: true
+  xy: 972, 850
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+jingji_jinbi01
+  rotate: true
+  xy: 871, 581
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1
+jingji_jinbi02
+  rotate: false
+  xy: 676, 333
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+jingji_jinbi03
+  rotate: false
+  xy: 520, 104
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+jingji_jinbi04
+  rotate: false
+  xy: 163, 5
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+jingji_kuang
+  rotate: false
+  xy: 2, 410
+  size: 476, 612
+  orig: 476, 612
+  offset: 0, 0
+  index: -1
+jingji_moguiyu
+  rotate: false
+  xy: 480, 688
+  size: 490, 334
+  orig: 490, 334
+  offset: 0, 0
+  index: -1
+jingji_moguiyuyangpi
+  rotate: false
+  xy: 472, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+jingji_zi
+  rotate: false
+  xy: 480, 424
+  size: 254, 124
+  orig: 254, 124
+  offset: 0, 0
+  index: -1

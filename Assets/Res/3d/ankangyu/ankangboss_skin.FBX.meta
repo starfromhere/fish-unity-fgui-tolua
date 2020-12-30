@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: d63943b76154284458d9bb524163a108
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankang_boss
+    100002: //RootNode
+    100004: Bip01
+    100006: Bone_B_fins01
+    100008: Bone_B_fins01_end
+    100010: Bone_body01
+    100012: Bone_body03
+    100014: Bone_cirrus01
+    100016: Bone_cirrus02
+    100018: Bone_cirrus03
+    100020: Bone_cirrus04
+    100022: Bone_cirrus05
+    100024: Bone_cirrus_end
+    100026: Bone_fins01
+    100028: Bone_fins_end
+    100030: Bone_fishtail01
+    100032: Bone_fishtail02
+    100034: Bone_fishtail_end
+    100036: Bone_head01
+    100038: Bone_L1_fishtail01
+    100040: Bone_L1_fishtail02
+    100042: Bone_L1_fishtail_end
+    100044: Bone_L_eye
+    100046: Bone_L_fins01
+    100048: Bone_L_fins01_end
+    100050: Bone_L_fins02
+    100052: Bone_L_fins02_end
+    100054: Bone_L_fishtail01
+    100056: Bone_L_fishtail02
+    100058: Bone_L_fishtail_end
+    100060: Bone_mouth01
+    100062: Bone_R1_fishtail01
+    100064: Bone_R1_fishtail02
+    100066: Bone_R1_fishtail_end
+    100068: Bone_R_eye
+    100070: Bone_R_fins01
+    100072: Bone_R_fins01_end
+    100074: Bone_R_fins02
+    100076: Bone_R_fins02_end
+    100078: Bone_R_fishtail01
+    100080: Bone_R_fishtail02
+    100082: Bone_R_fishtail_end
+    100084: Particle View 001
+    100086: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100088: "\xD7\xFE\xD7\xFC"
+    400000: ankang_boss
+    400002: //RootNode
+    400004: Bip01
+    400006: Bone_B_fins01
+    400008: Bone_B_fins01_end
+    400010: Bone_body01
+    400012: Bone_body03
+    400014: Bone_cirrus01
+    400016: Bone_cirrus02
+    400018: Bone_cirrus03
+    400020: Bone_cirrus04
+    400022: Bone_cirrus05
+    400024: Bone_cirrus_end
+    400026: Bone_fins01
+    400028: Bone_fins_end
+    400030: Bone_fishtail01
+    400032: Bone_fishtail02
+    400034: Bone_fishtail_end
+    400036: Bone_head01
+    400038: Bone_L1_fishtail01
+    400040: Bone_L1_fishtail02
+    400042: Bone_L1_fishtail_end
+    400044: Bone_L_eye
+    400046: Bone_L_fins01
+    400048: Bone_L_fins01_end
+    400050: Bone_L_fins02
+    400052: Bone_L_fins02_end
+    400054: Bone_L_fishtail01
+    400056: Bone_L_fishtail02
+    400058: Bone_L_fishtail_end
+    400060: Bone_mouth01
+    400062: Bone_R1_fishtail01
+    400064: Bone_R1_fishtail02
+    400066: Bone_R1_fishtail_end
+    400068: Bone_R_eye
+    400070: Bone_R_fins01
+    400072: Bone_R_fins01_end
+    400074: Bone_R_fins02
+    400076: Bone_R_fins02_end
+    400078: Bone_R_fishtail01
+    400080: Bone_R_fishtail02
+    400082: Bone_R_fishtail_end
+    400084: Particle View 001
+    400086: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400088: "\xD7\xFE\xD7\xFC"
+    2100000: 16 - Default
+    2100002: 'Material #399'
+    4300000: ankang_boss
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ankang_boss
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

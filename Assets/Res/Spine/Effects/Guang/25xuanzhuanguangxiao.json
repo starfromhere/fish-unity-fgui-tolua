@@ -1,0 +1,548 @@
+{
+"skeleton": { "hash": "zl140olCFF8V7dV+JpDAVcCwHZw", "spine": "3.6.53", "width": 400, "height": 200, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "lingquguangxiao", "parent": "root", "length": 240, "rotation": 90 },
+	{ "name": "lingquguangxiao2", "parent": "root", "length": 240, "rotation": 90 },
+	{ "name": "meire", "parent": "root", "length": 139.01 },
+	{ "name": "meire2", "parent": "root", "length": 139.01 },
+	{ "name": "wuqi", "parent": "root", "length": 182, "rotation": 180 },
+	{ "name": "wuqi2", "parent": "root", "length": 182, "rotation": 180 }
+],
+"slots": [
+	{ "name": "武器光/wuqi_00", "bone": "wuqi", "attachment": "武器光/wuqi_00" },
+	{ "name": "武器光/wuqi_0", "bone": "wuqi2", "attachment": "武器光/wuqi_00" },
+	{ "name": "每日特效/合成 1/成品/meir1_00", "bone": "meire", "attachment": "每日特效/合成 1/成品/meir1_25" },
+	{ "name": "每日特效/合成 1/成品/meir1_0", "bone": "meire2", "attachment": "每日特效/合成 1/成品/meir1_25" },
+	{ "name": "lingqu/chengping/lingquguangxiao_00", "bone": "lingquguangxiao", "attachment": "lingqu/chengping/lingquguangxiao_23" },
+	{ "name": "lingqu/chengping/lingquguangxiao_0", "bone": "lingquguangxiao2", "attachment": "lingqu/chengping/lingquguangxiao_23" }
+],
+"skins": {
+	"default": {
+		"lingqu/chengping/lingquguangxiao_0": {
+			"lingqu/chengping/lingquguangxiao_00": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_01": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_02": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_03": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_04": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_05": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_06": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_07": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_08": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_09": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_10": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_11": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_12": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_13": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_14": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_15": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_16": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_17": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_18": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_19": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_20": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_21": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_22": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_23": { "rotation": -90, "width": 400, "height": 180 }
+		},
+		"lingqu/chengping/lingquguangxiao_00": {
+			"lingqu/chengping/lingquguangxiao_00": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_01": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_02": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_03": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_04": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_05": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_06": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_07": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_08": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_09": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_10": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_11": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_12": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_13": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_14": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_15": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_16": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_17": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_18": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_19": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_20": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_21": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_22": { "rotation": -90, "width": 400, "height": 180 },
+			"lingqu/chengping/lingquguangxiao_23": { "rotation": -90, "width": 400, "height": 180 }
+		},
+		"武器光/wuqi_0": {
+			"武器光/wuqi_00": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_01": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_02": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_03": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_04": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_05": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_06": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_07": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_08": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_09": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_10": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_11": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_12": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_13": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_14": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_15": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_16": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_17": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_18": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_19": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_20": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_21": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_22": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_23": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_24": { "rotation": 180, "width": 104, "height": 104 }
+		},
+		"武器光/wuqi_00": {
+			"武器光/wuqi_00": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_01": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_02": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_03": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_04": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_05": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_06": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_07": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_08": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_09": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_10": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_11": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_12": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_13": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_14": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_15": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_16": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_17": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_18": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_19": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_20": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_21": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_22": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_23": { "rotation": 180, "width": 104, "height": 104 },
+			"武器光/wuqi_24": { "rotation": 180, "width": 104, "height": 104 }
+		},
+		"每日特效/合成 1/成品/meir1_0": {
+			"每日特效/合成 1/成品/meir1_00": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_01": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_02": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_03": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_04": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_05": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_06": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_07": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_08": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_09": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_10": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_11": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_12": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_13": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_14": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_15": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_16": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_17": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_18": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_19": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_20": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_21": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_22": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_23": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_24": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_25": { "width": 400, "height": 200 }
+		},
+		"每日特效/合成 1/成品/meir1_00": {
+			"每日特效/合成 1/成品/meir1_00": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_01": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_02": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_03": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_04": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_05": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_06": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_07": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_08": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_09": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_10": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_11": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_12": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_13": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_14": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_15": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_16": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_17": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_18": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_19": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_20": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_21": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_22": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_23": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_24": { "width": 400, "height": 200 },
+			"每日特效/合成 1/成品/meir1_25": { "width": 400, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"dingbiankuang": {
+		"slots": {
+			"每日特效/合成 1/成品/meir1_00": {
+				"attachment": [
+					{ "time": 0, "name": "每日特效/合成 1/成品/meir1_00" },
+					{ "time": 0.0333, "name": "每日特效/合成 1/成品/meir1_01" },
+					{ "time": 0.0667, "name": "每日特效/合成 1/成品/meir1_02" },
+					{ "time": 0.1, "name": "每日特效/合成 1/成品/meir1_03" },
+					{ "time": 0.1333, "name": "每日特效/合成 1/成品/meir1_04" },
+					{ "time": 0.1667, "name": "每日特效/合成 1/成品/meir1_05" },
+					{ "time": 0.2, "name": "每日特效/合成 1/成品/meir1_06" },
+					{ "time": 0.2333, "name": "每日特效/合成 1/成品/meir1_07" },
+					{ "time": 0.2667, "name": "每日特效/合成 1/成品/meir1_08" },
+					{ "time": 0.3, "name": "每日特效/合成 1/成品/meir1_09" },
+					{ "time": 0.3333, "name": "每日特效/合成 1/成品/meir1_10" },
+					{ "time": 0.3667, "name": "每日特效/合成 1/成品/meir1_11" },
+					{ "time": 0.4, "name": "每日特效/合成 1/成品/meir1_12" },
+					{ "time": 0.4333, "name": "每日特效/合成 1/成品/meir1_13" },
+					{ "time": 0.4667, "name": "每日特效/合成 1/成品/meir1_14" },
+					{ "time": 0.5, "name": "每日特效/合成 1/成品/meir1_15" },
+					{ "time": 0.5333, "name": "每日特效/合成 1/成品/meir1_16" },
+					{ "time": 0.5667, "name": "每日特效/合成 1/成品/meir1_17" },
+					{ "time": 0.6, "name": "每日特效/合成 1/成品/meir1_18" },
+					{ "time": 0.6333, "name": "每日特效/合成 1/成品/meir1_19" },
+					{ "time": 0.6667, "name": "每日特效/合成 1/成品/meir1_20" },
+					{ "time": 0.7, "name": "每日特效/合成 1/成品/meir1_21" },
+					{ "time": 0.7333, "name": "每日特效/合成 1/成品/meir1_22" },
+					{ "time": 0.7667, "name": "每日特效/合成 1/成品/meir1_23" },
+					{ "time": 0.8, "name": "每日特效/合成 1/成品/meir1_24" },
+					{ "time": 0.8333, "name": "每日特效/合成 1/成品/meir1_25" }
+				]
+			},
+			"每日特效/合成 1/成品/meir1_0": {
+				"attachment": [
+					{ "time": 0, "name": "每日特效/合成 1/成品/meir1_00" },
+					{ "time": 0.0333, "name": "每日特效/合成 1/成品/meir1_01" },
+					{ "time": 0.0667, "name": "每日特效/合成 1/成品/meir1_02" },
+					{ "time": 0.1, "name": "每日特效/合成 1/成品/meir1_03" },
+					{ "time": 0.1333, "name": "每日特效/合成 1/成品/meir1_04" },
+					{ "time": 0.1667, "name": "每日特效/合成 1/成品/meir1_05" },
+					{ "time": 0.2, "name": "每日特效/合成 1/成品/meir1_06" },
+					{ "time": 0.2333, "name": "每日特效/合成 1/成品/meir1_07" },
+					{ "time": 0.2667, "name": "每日特效/合成 1/成品/meir1_08" },
+					{ "time": 0.3, "name": "每日特效/合成 1/成品/meir1_09" },
+					{ "time": 0.3333, "name": "每日特效/合成 1/成品/meir1_10" },
+					{ "time": 0.3667, "name": "每日特效/合成 1/成品/meir1_11" },
+					{ "time": 0.4, "name": "每日特效/合成 1/成品/meir1_12" },
+					{ "time": 0.4333, "name": "每日特效/合成 1/成品/meir1_13" },
+					{ "time": 0.4667, "name": "每日特效/合成 1/成品/meir1_14" },
+					{ "time": 0.5, "name": "每日特效/合成 1/成品/meir1_15" },
+					{ "time": 0.5333, "name": "每日特效/合成 1/成品/meir1_16" },
+					{ "time": 0.5667, "name": "每日特效/合成 1/成品/meir1_17" },
+					{ "time": 0.6, "name": "每日特效/合成 1/成品/meir1_18" },
+					{ "time": 0.6333, "name": "每日特效/合成 1/成品/meir1_19" },
+					{ "time": 0.6667, "name": "每日特效/合成 1/成品/meir1_20" },
+					{ "time": 0.7, "name": "每日特效/合成 1/成品/meir1_21" },
+					{ "time": 0.7333, "name": "每日特效/合成 1/成品/meir1_22" },
+					{ "time": 0.7667, "name": "每日特效/合成 1/成品/meir1_23" },
+					{ "time": 0.8, "name": "每日特效/合成 1/成品/meir1_24" },
+					{ "time": 0.8333, "name": "每日特效/合成 1/成品/meir1_25" }
+				]
+			}
+		},
+		"bones": {
+			"wuqi2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"wuqi": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"meire": {
+				"translate": [
+					{ "time": 0, "x": 0.24, "y": 1.43 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.98 }
+				]
+			},
+			"meire2": {
+				"rotate": [
+					{ "time": 0, "angle": 180 }
+				],
+				"translate": [
+					{ "time": 0, "x": -2.15, "y": 7.28 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.98 }
+				]
+			}
+		}
+	},
+	"icon_cj": {
+		"slots": {
+			"武器光/wuqi_00": {
+				"attachment": [
+					{ "time": 0, "name": "武器光/wuqi_00" },
+					{ "time": 0.0333, "name": "武器光/wuqi_01" },
+					{ "time": 0.0667, "name": "武器光/wuqi_02" },
+					{ "time": 0.1, "name": "武器光/wuqi_03" },
+					{ "time": 0.1333, "name": "武器光/wuqi_04" },
+					{ "time": 0.1667, "name": "武器光/wuqi_05" },
+					{ "time": 0.2, "name": "武器光/wuqi_06" },
+					{ "time": 0.2333, "name": "武器光/wuqi_07" },
+					{ "time": 0.2667, "name": "武器光/wuqi_08" },
+					{ "time": 0.3, "name": "武器光/wuqi_09" },
+					{ "time": 0.3333, "name": "武器光/wuqi_10" },
+					{ "time": 0.3667, "name": "武器光/wuqi_11" },
+					{ "time": 0.4, "name": "武器光/wuqi_12" },
+					{ "time": 0.4333, "name": "武器光/wuqi_13" },
+					{ "time": 0.4667, "name": "武器光/wuqi_14" },
+					{ "time": 0.5, "name": "武器光/wuqi_15" },
+					{ "time": 0.5333, "name": "武器光/wuqi_16" },
+					{ "time": 0.5667, "name": "武器光/wuqi_17" },
+					{ "time": 0.6, "name": "武器光/wuqi_18" },
+					{ "time": 0.6333, "name": "武器光/wuqi_19" },
+					{ "time": 0.6667, "name": "武器光/wuqi_20" },
+					{ "time": 0.7, "name": "武器光/wuqi_21" },
+					{ "time": 0.7333, "name": "武器光/wuqi_22" },
+					{ "time": 0.7667, "name": "武器光/wuqi_23" },
+					{ "time": 0.8, "name": "武器光/wuqi_24" }
+				]
+			},
+			"武器光/wuqi_0": {
+				"attachment": [
+					{ "time": 0, "name": "武器光/wuqi_00" },
+					{ "time": 0.0333, "name": "武器光/wuqi_01" },
+					{ "time": 0.0667, "name": "武器光/wuqi_02" },
+					{ "time": 0.1, "name": "武器光/wuqi_03" },
+					{ "time": 0.1333, "name": "武器光/wuqi_04" },
+					{ "time": 0.1667, "name": "武器光/wuqi_05" },
+					{ "time": 0.2, "name": "武器光/wuqi_06" },
+					{ "time": 0.2333, "name": "武器光/wuqi_07" },
+					{ "time": 0.2667, "name": "武器光/wuqi_08" },
+					{ "time": 0.3, "name": "武器光/wuqi_09" },
+					{ "time": 0.3333, "name": "武器光/wuqi_10" },
+					{ "time": 0.3667, "name": "武器光/wuqi_11" },
+					{ "time": 0.4, "name": "武器光/wuqi_12" },
+					{ "time": 0.4333, "name": "武器光/wuqi_13" },
+					{ "time": 0.4667, "name": "武器光/wuqi_14" },
+					{ "time": 0.5, "name": "武器光/wuqi_15" },
+					{ "time": 0.5333, "name": "武器光/wuqi_16" },
+					{ "time": 0.5667, "name": "武器光/wuqi_17" },
+					{ "time": 0.6, "name": "武器光/wuqi_18" },
+					{ "time": 0.6333, "name": "武器光/wuqi_19" },
+					{ "time": 0.6667, "name": "武器光/wuqi_20" },
+					{ "time": 0.7, "name": "武器光/wuqi_21" },
+					{ "time": 0.7333, "name": "武器光/wuqi_22" },
+					{ "time": 0.7667, "name": "武器光/wuqi_23" },
+					{ "time": 0.8, "name": "武器光/wuqi_24" }
+				]
+			}
+		},
+		"bones": {
+			"meire2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"meire": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"icon_js": {
+		"slots": {
+			"武器光/wuqi_00": {
+				"attachment": [
+					{ "time": 0, "name": "武器光/wuqi_00" },
+					{ "time": 0.0333, "name": "武器光/wuqi_01" },
+					{ "time": 0.0667, "name": "武器光/wuqi_02" },
+					{ "time": 0.1, "name": "武器光/wuqi_03" },
+					{ "time": 0.1333, "name": "武器光/wuqi_04" },
+					{ "time": 0.1667, "name": "武器光/wuqi_05" },
+					{ "time": 0.2, "name": "武器光/wuqi_06" },
+					{ "time": 0.2333, "name": "武器光/wuqi_07" },
+					{ "time": 0.2667, "name": "武器光/wuqi_08" },
+					{ "time": 0.3, "name": "武器光/wuqi_09" },
+					{ "time": 0.3333, "name": "武器光/wuqi_10" },
+					{ "time": 0.3667, "name": "武器光/wuqi_11" },
+					{ "time": 0.4, "name": "武器光/wuqi_12" },
+					{ "time": 0.4333, "name": "武器光/wuqi_13" },
+					{ "time": 0.4667, "name": "武器光/wuqi_14" },
+					{ "time": 0.5, "name": "武器光/wuqi_15" },
+					{ "time": 0.5333, "name": "武器光/wuqi_16" },
+					{ "time": 0.5667, "name": "武器光/wuqi_17" },
+					{ "time": 0.6, "name": "武器光/wuqi_18" },
+					{ "time": 0.6333, "name": "武器光/wuqi_19" },
+					{ "time": 0.6667, "name": "武器光/wuqi_20" },
+					{ "time": 0.7, "name": "武器光/wuqi_21" },
+					{ "time": 0.7333, "name": "武器光/wuqi_22" },
+					{ "time": 0.7667, "name": "武器光/wuqi_23" },
+					{ "time": 0.8, "name": "武器光/wuqi_24" }
+				]
+			},
+			"武器光/wuqi_0": {
+				"attachment": [
+					{ "time": 0, "name": "武器光/wuqi_00" },
+					{ "time": 0.0333, "name": "武器光/wuqi_01" },
+					{ "time": 0.0667, "name": "武器光/wuqi_02" },
+					{ "time": 0.1, "name": "武器光/wuqi_03" },
+					{ "time": 0.1333, "name": "武器光/wuqi_04" },
+					{ "time": 0.1667, "name": "武器光/wuqi_05" },
+					{ "time": 0.2, "name": "武器光/wuqi_06" },
+					{ "time": 0.2333, "name": "武器光/wuqi_07" },
+					{ "time": 0.2667, "name": "武器光/wuqi_08" },
+					{ "time": 0.3, "name": "武器光/wuqi_09" },
+					{ "time": 0.3333, "name": "武器光/wuqi_10" },
+					{ "time": 0.3667, "name": "武器光/wuqi_11" },
+					{ "time": 0.4, "name": "武器光/wuqi_12" },
+					{ "time": 0.4333, "name": "武器光/wuqi_13" },
+					{ "time": 0.4667, "name": "武器光/wuqi_14" },
+					{ "time": 0.5, "name": "武器光/wuqi_15" },
+					{ "time": 0.5333, "name": "武器光/wuqi_16" },
+					{ "time": 0.5667, "name": "武器光/wuqi_17" },
+					{ "time": 0.6, "name": "武器光/wuqi_18" },
+					{ "time": 0.6333, "name": "武器光/wuqi_19" },
+					{ "time": 0.6667, "name": "武器光/wuqi_20" },
+					{ "time": 0.7, "name": "武器光/wuqi_21" },
+					{ "time": 0.7333, "name": "武器光/wuqi_22" },
+					{ "time": 0.7667, "name": "武器光/wuqi_23" },
+					{ "time": 0.8, "name": "武器光/wuqi_24" }
+				]
+			}
+		},
+		"bones": {
+			"meire2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"meire": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"zuobiankuang": {
+		"slots": {
+			"lingqu/chengping/lingquguangxiao_00": {
+				"attachment": [
+					{ "time": 0, "name": "lingqu/chengping/lingquguangxiao_00" },
+					{ "time": 0.0333, "name": "lingqu/chengping/lingquguangxiao_01" },
+					{ "time": 0.0667, "name": "lingqu/chengping/lingquguangxiao_02" },
+					{ "time": 0.1, "name": "lingqu/chengping/lingquguangxiao_03" },
+					{ "time": 0.1333, "name": "lingqu/chengping/lingquguangxiao_04" },
+					{ "time": 0.1667, "name": "lingqu/chengping/lingquguangxiao_05" },
+					{ "time": 0.2, "name": "lingqu/chengping/lingquguangxiao_06" },
+					{ "time": 0.2333, "name": "lingqu/chengping/lingquguangxiao_07" },
+					{ "time": 0.2667, "name": "lingqu/chengping/lingquguangxiao_08" },
+					{ "time": 0.3, "name": "lingqu/chengping/lingquguangxiao_09" },
+					{ "time": 0.3333, "name": "lingqu/chengping/lingquguangxiao_10" },
+					{ "time": 0.3667, "name": "lingqu/chengping/lingquguangxiao_11" },
+					{ "time": 0.4, "name": "lingqu/chengping/lingquguangxiao_12" },
+					{ "time": 0.4333, "name": "lingqu/chengping/lingquguangxiao_13" },
+					{ "time": 0.4667, "name": "lingqu/chengping/lingquguangxiao_14" },
+					{ "time": 0.5, "name": "lingqu/chengping/lingquguangxiao_15" },
+					{ "time": 0.5333, "name": "lingqu/chengping/lingquguangxiao_16" },
+					{ "time": 0.5667, "name": "lingqu/chengping/lingquguangxiao_17" },
+					{ "time": 0.6, "name": "lingqu/chengping/lingquguangxiao_18" },
+					{ "time": 0.6333, "name": "lingqu/chengping/lingquguangxiao_19" },
+					{ "time": 0.6667, "name": "lingqu/chengping/lingquguangxiao_20" },
+					{ "time": 0.7, "name": "lingqu/chengping/lingquguangxiao_21" },
+					{ "time": 0.7333, "name": "lingqu/chengping/lingquguangxiao_22" },
+					{ "time": 0.7667, "name": "lingqu/chengping/lingquguangxiao_23" }
+				]
+			},
+			"lingqu/chengping/lingquguangxiao_0": {
+				"attachment": [
+					{ "time": 0, "name": "lingqu/chengping/lingquguangxiao_00" },
+					{ "time": 0.0333, "name": "lingqu/chengping/lingquguangxiao_01" },
+					{ "time": 0.0667, "name": "lingqu/chengping/lingquguangxiao_02" },
+					{ "time": 0.1, "name": "lingqu/chengping/lingquguangxiao_03" },
+					{ "time": 0.1333, "name": "lingqu/chengping/lingquguangxiao_04" },
+					{ "time": 0.1667, "name": "lingqu/chengping/lingquguangxiao_05" },
+					{ "time": 0.2, "name": "lingqu/chengping/lingquguangxiao_06" },
+					{ "time": 0.2333, "name": "lingqu/chengping/lingquguangxiao_07" },
+					{ "time": 0.2667, "name": "lingqu/chengping/lingquguangxiao_08" },
+					{ "time": 0.3, "name": "lingqu/chengping/lingquguangxiao_09" },
+					{ "time": 0.3333, "name": "lingqu/chengping/lingquguangxiao_10" },
+					{ "time": 0.3667, "name": "lingqu/chengping/lingquguangxiao_11" },
+					{ "time": 0.4, "name": "lingqu/chengping/lingquguangxiao_12" },
+					{ "time": 0.4333, "name": "lingqu/chengping/lingquguangxiao_13" },
+					{ "time": 0.4667, "name": "lingqu/chengping/lingquguangxiao_14" },
+					{ "time": 0.5, "name": "lingqu/chengping/lingquguangxiao_15" },
+					{ "time": 0.5333, "name": "lingqu/chengping/lingquguangxiao_16" },
+					{ "time": 0.5667, "name": "lingqu/chengping/lingquguangxiao_17" },
+					{ "time": 0.6, "name": "lingqu/chengping/lingquguangxiao_18" },
+					{ "time": 0.6333, "name": "lingqu/chengping/lingquguangxiao_19" },
+					{ "time": 0.6667, "name": "lingqu/chengping/lingquguangxiao_20" },
+					{ "time": 0.7, "name": "lingqu/chengping/lingquguangxiao_21" },
+					{ "time": 0.7333, "name": "lingqu/chengping/lingquguangxiao_22" },
+					{ "time": 0.7667, "name": "lingqu/chengping/lingquguangxiao_23" }
+				]
+			}
+		},
+		"bones": {
+			"wuqi2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"wuqi": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"meire2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"meire": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"lingquguangxiao2": {
+				"rotate": [
+					{ "time": 0, "angle": 180 }
+				]
+			}
+		}
+	}
+}
+}

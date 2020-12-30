@@ -1,0 +1,83 @@
+
+H5_Loading.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Laoding_hongyu
+  rotate: false
+  xy: 1284, 850
+  size: 236, 169
+  orig: 236, 169
+  offset: 0, 0
+  index: -1
+Laoding_hongyu_qi
+  rotate: false
+  xy: 1522, 960
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Laoding_hongyu_qi1
+  rotate: false
+  xy: 335, 193
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+Laoding_hongyu_qi2
+  rotate: false
+  xy: 2, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Laoding_lanyu
+  rotate: false
+  xy: 2, 107
+  size: 331, 190
+  orig: 331, 190
+  offset: 0, 0
+  index: -1
+Laoding_lanyu_qi
+  rotate: false
+  xy: 1284, 785
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Laoding_lanyu_qi1
+  rotate: false
+  xy: 76, 64
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Laoding_lanyu_qi2
+  rotate: false
+  xy: 399, 267
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Laoding_paopao
+  rotate: false
+  xy: 2, 33
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+Laoding_paopao1
+  rotate: false
+  xy: 335, 235
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Loading_bc
+  rotate: false
+  xy: 2, 299
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

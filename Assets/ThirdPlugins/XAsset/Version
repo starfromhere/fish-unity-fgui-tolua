@@ -1,0 +1,20 @@
+v5.1.3
+- 下载文件校验
+v5.1
+- Rules优化，支持自动采集资源，自动分包
+- 下载出错的资源自动Release，业务层无需手动处理
+- 去掉Settings，改到Initializer中进行初始化
+v5.0.2
+- Downloader底层重构，提升切换台和网络切换的稳定性
+v5.0
+- Resources剥离，除了一个Settings文件，其他资源全部打Bundle。
+- Manifest去掉了改成用Versions文件记录资源版本和依赖信息。
+- 开发模式提供了获取所有路径的支持。
+- DLC目录改成Bundles。
+- 统计资源的加载顺序和被加载的场景，为资源自动分包提供数据支撑。
+- 增加根据分包复制资源到StreamingAssets的接口。
+- Initializer：初始化组建。
+- Assets.DownloadAll: 根据分包下载需要更新的文件，如果有返回true，没有返回false。
+- Assets.DownloadVersions:下载服务器版本文件。
+- Assets.Initialize：使用callback返回。
+- Asset.Require：Require之后，不需要调用Release。

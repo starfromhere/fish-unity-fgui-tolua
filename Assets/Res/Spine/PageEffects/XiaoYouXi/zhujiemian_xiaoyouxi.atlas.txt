@@ -1,0 +1,76 @@
+
+zhujiemian_xiaoyouxi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoyouxi_fangkuai
+  rotate: true
+  xy: 310, 2
+  size: 96, 184
+  orig: 96, 184
+  offset: 0, 0
+  index: -1
+xiaoyouxi_heitao
+  rotate: true
+  xy: 781, 152
+  size: 105, 156
+  orig: 105, 156
+  offset: 0, 0
+  index: -1
+xiaoyouxi_hongtao
+  rotate: false
+  xy: 781, 35
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+xiaoyouxi_kuang
+  rotate: true
+  xy: 2, 86
+  size: 416, 306
+  orig: 416, 306
+  offset: 0, 0
+  index: -1
+xiaoyouxi_kui
+  rotate: false
+  xy: 604, 259
+  size: 319, 243
+  orig: 319, 243
+  offset: 0, 0
+  index: -1
+xiaoyouxi_panxieyanpi
+  rotate: false
+  xy: 2, 42
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+xiaoyouxi_suo
+  rotate: true
+  xy: 310, 100
+  size: 402, 292
+  orig: 402, 292
+  offset: 0, 0
+  index: -1
+xiaoyouxi_xie
+  rotate: true
+  xy: 604, 49
+  size: 208, 175
+  orig: 208, 175
+  offset: 0, 0
+  index: -1
+xiaoyouxi_xiezhua01
+  rotate: false
+  xy: 2, 2
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+xiaoyouxi_xiezhua02
+  rotate: false
+  xy: 24, 13
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

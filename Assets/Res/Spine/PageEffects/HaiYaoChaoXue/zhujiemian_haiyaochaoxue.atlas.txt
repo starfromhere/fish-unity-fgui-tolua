@@ -1,0 +1,69 @@
+
+zhujiemian_haiyaochaoxue.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haiyao_baoxiang
+  rotate: false
+  xy: 899, 216
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+haiyao_jingbi
+  rotate: false
+  xy: 2, 2
+  size: 373, 151
+  orig: 373, 151
+  offset: 0, 0
+  index: -1
+haiyao_kuang
+  rotate: false
+  xy: 2, 155
+  size: 416, 284
+  orig: 416, 284
+  offset: 0, 0
+  index: -1
+haiyao_zhangyu
+  rotate: false
+  xy: 420, 174
+  size: 384, 265
+  orig: 384, 265
+  offset: 0, 0
+  index: -1
+haiyao_zhangyujiao01
+  rotate: false
+  xy: 466, 85
+  size: 143, 87
+  orig: 143, 87
+  offset: 0, 0
+  index: -1
+haiyao_zhangyujiao02
+  rotate: false
+  xy: 377, 8
+  size: 87, 145
+  orig: 87, 145
+  offset: 0, 0
+  index: -1
+haiyao_zhangyujiao03
+  rotate: true
+  xy: 611, 93
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+haiyao_zhangyujiao04
+  rotate: false
+  xy: 899, 310
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+haiyao_zi
+  rotate: true
+  xy: 806, 211
+  size: 228, 91
+  orig: 228, 91
+  offset: 0, 0
+  index: -1

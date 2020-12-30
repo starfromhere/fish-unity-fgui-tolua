@@ -1,0 +1,57 @@
+{
+"skeleton": { "hash": "nkNGxME3SfKBhQHBBRHzeORTZWY", "spine": "3.6.53", "width": 58, "height": 58, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "zidan_02_00000", "bone": "root", "attachment": "zidan_02_00000" }
+],
+"skins": {
+	"default": {
+		"zidan_02_00000": {
+			"zidan_02_00000": { "width": 58, "height": 58 },
+			"zidan_02_00001": { "width": 318, "height": 318 },
+			"zidan_02_00002": { "width": 318, "height": 318 },
+			"zidan_02_00003": { "width": 314, "height": 314 },
+			"zidan_02_00004": { "width": 210, "height": 210 },
+			"zidan_02_00005": { "width": 352, "height": 352 },
+			"zidan_02_00006": { "width": 378, "height": 378 },
+			"zidan_02_00007": { "width": 500, "height": 500 },
+			"zidan_02_00008": { "width": 500, "height": 500 },
+			"zidan_02_00009": { "width": 500, "height": 500 },
+			"zidan_02_00010": { "width": 500, "height": 500 },
+			"zidan_02_00011": { "width": 500, "height": 500 },
+			"zidan_02_00012": { "width": 500, "height": 500 },
+			"zidan_02_00013": { "width": 500, "height": 500 },
+			"zidan_02_00014": { "width": 500, "height": 500 },
+			"zidan_02_00015": { "width": 500, "height": 500 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"zidan_02_00000": {
+				"attachment": [
+					{ "time": 0, "name": "zidan_02_00000" },
+					{ "time": 0.0333, "name": "zidan_02_00001" },
+					{ "time": 0.0667, "name": "zidan_02_00002" },
+					{ "time": 0.1, "name": "zidan_02_00003" },
+					{ "time": 0.1333, "name": "zidan_02_00004" },
+					{ "time": 0.1667, "name": "zidan_02_00005" },
+					{ "time": 0.2, "name": "zidan_02_00006" },
+					{ "time": 0.2333, "name": "zidan_02_00007" },
+					{ "time": 0.2667, "name": "zidan_02_00008" },
+					{ "time": 0.3, "name": "zidan_02_00009" },
+					{ "time": 0.3333, "name": "zidan_02_00010" },
+					{ "time": 0.3667, "name": "zidan_02_00011" },
+					{ "time": 0.4, "name": "zidan_02_00012" },
+					{ "time": 0.4333, "name": "zidan_02_00013" },
+					{ "time": 0.4667, "name": "zidan_02_00014" },
+					{ "time": 0.5, "name": "zidan_02_00015" }
+				]
+			}
+		}
+	}
+}
+}

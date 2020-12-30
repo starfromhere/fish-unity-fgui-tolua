@@ -1,0 +1,111 @@
+
+zhujiemian_haimian.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fanchuang
+  rotate: false
+  xy: 1018, 394
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+bird_01
+  rotate: false
+  xy: 1239, 610
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+bird_03
+  rotate: false
+  xy: 2, 33
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+haimian
+  rotate: false
+  xy: 2, 908
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+lang01
+  rotate: true
+  xy: 433, 2
+  size: 331, 177
+  orig: 331, 177
+  offset: 0, 0
+  index: -1
+lang02
+  rotate: false
+  xy: 711, 648
+  size: 609, 258
+  orig: 609, 258
+  offset: 0, 0
+  index: -1
+lang03
+  rotate: false
+  xy: 2, 677
+  size: 707, 229
+  orig: 707, 229
+  offset: 0, 0
+  index: -1
+lang04
+  rotate: false
+  xy: 1322, 473
+  size: 393, 231
+  orig: 393, 231
+  offset: 0, 0
+  index: -1
+lang05
+  rotate: false
+  xy: 2, 74
+  size: 429, 259
+  orig: 429, 259
+  offset: 0, 0
+  index: -1
+lang06
+  rotate: false
+  xy: 544, 337
+  size: 472, 162
+  orig: 472, 162
+  offset: 0, 0
+  index: -1
+lang07
+  rotate: true
+  xy: 1717, 336
+  size: 368, 252
+  orig: 368, 252
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: false
+  xy: 2, 335
+  size: 540, 340
+  orig: 540, 340
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 544, 501
+  size: 693, 145
+  orig: 693, 145
+  offset: 0, 0
+  index: -1
+yun03
+  rotate: true
+  xy: 1924, 1814
+  size: 174, 70
+  orig: 174, 70
+  offset: 0, 0
+  index: -1
+yun04
+  rotate: false
+  xy: 1322, 706
+  size: 603, 200
+  orig: 603, 200
+  offset: 0, 0
+  index: -1

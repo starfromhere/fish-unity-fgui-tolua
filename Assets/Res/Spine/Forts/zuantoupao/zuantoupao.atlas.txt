@@ -1,0 +1,41 @@
+
+zuantoupao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 296, 50
+  size: 66, 148
+  orig: 66, 148
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 446, 32
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 166, 26
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+004
+  rotate: true
+  xy: 296, 2
+  size: 46, 98
+  orig: 46, 98
+  offset: 0, 0
+  index: -1
+zuantou
+  rotate: true
+  xy: 2, 8
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1

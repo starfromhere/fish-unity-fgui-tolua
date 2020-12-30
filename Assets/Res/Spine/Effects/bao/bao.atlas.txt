@@ -1,0 +1,76 @@
+
+bao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 672, 467
+  size: 206, 203
+  orig: 206, 203
+  offset: 0, 0
+  index: -1
+0002
+  rotate: true
+  xy: 672, 297
+  size: 168, 169
+  orig: 168, 169
+  offset: 0, 0
+  index: -1
+0003
+  rotate: false
+  xy: 337, 32
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+H5_baozha1
+  rotate: false
+  xy: 337, 65
+  size: 282, 270
+  orig: 282, 270
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_000
+  rotate: false
+  xy: 2, 672
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_001
+  rotate: false
+  xy: 2, 337
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_002
+  rotate: false
+  xy: 337, 672
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_003
+  rotate: false
+  xy: 2, 2
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_004
+  rotate: false
+  xy: 337, 337
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+picV382_boom_huangJin_005
+  rotate: false
+  xy: 672, 672
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1

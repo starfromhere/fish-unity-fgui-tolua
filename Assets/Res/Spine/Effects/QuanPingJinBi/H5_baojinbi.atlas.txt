@@ -1,0 +1,76 @@
+
+H5_baojinbi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 556, 108
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 239, 264
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 396, 264
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 553, 264
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 710, 264
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 867, 264
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 399, 108
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+1_09
+  rotate: false
+  xy: 239, 124
+  size: 158, 138
+  orig: 158, 138
+  offset: 0, 0
+  index: -1
+g001
+  rotate: false
+  xy: 2, 182
+  size: 235, 236
+  orig: 235, 236
+  offset: 0, 0
+  index: -1
+g002
+  rotate: false
+  xy: 2, 2
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+H5_hybaoza.png
+size: 1034,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blastmark005
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cjb_065
+  rotate: false
+  xy: 518, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dilie015
+  rotate: false
+  xy: 776, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_07
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

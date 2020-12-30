@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <paths>
+        <external-path
+            name="external_storage_download"
+            path="Android/data/com.jjhgame.fish3/cache/download" />
+    </paths>
+</resources>

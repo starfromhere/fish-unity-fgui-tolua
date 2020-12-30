@@ -1,0 +1,55 @@
+
+H5_lingjian.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luosi01
+  rotate: true
+  xy: 2, 14
+  size: 23, 84
+  orig: 23, 84
+  offset: 0, 0
+  index: -1
+luosi02
+  rotate: false
+  xy: 2, 39
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+luosi03
+  rotate: false
+  xy: 132, 64
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+niukou01
+  rotate: false
+  xy: 132, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+niukou02
+  rotate: true
+  xy: 196, 65
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+niukou03
+  rotate: false
+  xy: 194, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+shuiguan
+  rotate: true
+  xy: 47, 40
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+diancipao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diancipao_001
+  rotate: false
+  xy: 426, 162
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+diancipao_002
+  rotate: false
+  xy: 2, 2
+  size: 135, 81
+  orig: 135, 81
+  offset: 0, 0
+  index: -1
+diancipao_003
+  rotate: false
+  xy: 139, 12
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+diancipao_004
+  rotate: false
+  xy: 362, 133
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+font-dcp
+  rotate: false
+  xy: 2, 85
+  size: 358, 148
+  orig: 358, 148
+  offset: 0, 0
+  index: -1

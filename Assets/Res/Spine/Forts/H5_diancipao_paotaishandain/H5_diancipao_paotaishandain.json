@@ -1,0 +1,63 @@
+{
+"skeleton": { "hash": "pMka6onA1Q/RbKBKlZmuh7UKUto", "spine": "3.6.53", "width": 280, "height": 280, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "shandian_0", "bone": "root", "attachment": "shandian_18", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"shandian_0": {
+			"shandian_0": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_1": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_2": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_3": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_4": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_5": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_6": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_7": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_8": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_9": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_10": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_11": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_12": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_13": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_14": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_15": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_16": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_17": { "x": -8.5, "y": 81, "width": 280, "height": 280 },
+			"shandian_18": { "x": -8.5, "y": 81, "width": 280, "height": 280 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"shandian_0": {
+				"attachment": [
+					{ "time": 0, "name": "shandian_0" },
+					{ "time": 0.0333, "name": "shandian_1" },
+					{ "time": 0.0667, "name": "shandian_2" },
+					{ "time": 0.1, "name": "shandian_3" },
+					{ "time": 0.1333, "name": "shandian_4" },
+					{ "time": 0.1667, "name": "shandian_5" },
+					{ "time": 0.2, "name": "shandian_6" },
+					{ "time": 0.2333, "name": "shandian_7" },
+					{ "time": 0.2667, "name": "shandian_8" },
+					{ "time": 0.3, "name": "shandian_9" },
+					{ "time": 0.3333, "name": "shandian_10" },
+					{ "time": 0.3667, "name": "shandian_11" },
+					{ "time": 0.4, "name": "shandian_12" },
+					{ "time": 0.4333, "name": "shandian_13" },
+					{ "time": 0.4667, "name": "shandian_14" },
+					{ "time": 0.5, "name": "shandian_15" },
+					{ "time": 0.5333, "name": "shandian_16" },
+					{ "time": 0.5667, "name": "shandian_17" },
+					{ "time": 0.6, "name": "shandian_18" }
+				]
+			}
+		}
+	}
+}
+}

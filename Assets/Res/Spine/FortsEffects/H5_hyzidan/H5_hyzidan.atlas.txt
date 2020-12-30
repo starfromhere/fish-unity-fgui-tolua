@@ -1,0 +1,20 @@
+
+H5_hyzidan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ziidan01
+  rotate: false
+  xy: 234, 76
+  size: 278, 401
+  orig: 278, 401
+  offset: 0, 0
+  index: -1
+ziidan02
+  rotate: false
+  xy: 2, 2
+  size: 230, 475
+  orig: 230, 475
+  offset: 0, 0
+  index: -1

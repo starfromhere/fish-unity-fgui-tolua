@@ -1,0 +1,55 @@
+
+H5_hd_fu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_fu_BG
+  rotate: false
+  xy: 2, 2
+  size: 690, 256
+  orig: 690, 256
+  offset: 0, 0
+  index: -1
+H5_fu_ggg
+  rotate: false
+  xy: 770, 286
+  size: 360, 197
+  orig: 360, 197
+  offset: 0, 0
+  index: -1
+H5_fu_lizi
+  rotate: false
+  xy: 1132, 319
+  size: 331, 164
+  orig: 331, 164
+  offset: 0, 0
+  index: -1
+H5_fu_piadi
+  rotate: false
+  xy: 2, 260
+  size: 766, 223
+  orig: 766, 223
+  offset: 0, 0
+  index: -1
+H5_fu_yuyuyu
+  rotate: false
+  xy: 1465, 217
+  size: 297, 266
+  orig: 297, 266
+  offset: 0, 0
+  index: -1
+fu_yanlei_0001
+  rotate: false
+  xy: 1764, 303
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+fu_yanlei_0002
+  rotate: false
+  xy: 1764, 121
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

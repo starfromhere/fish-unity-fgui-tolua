@@ -1,0 +1,118 @@
+
+H5_baozha2.png
+size: 2010,1558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidan_02_00000
+  rotate: false
+  xy: 1888, 996
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+zidan_02_00001
+  rotate: false
+  xy: 1006, 234
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+zidan_02_00002
+  rotate: false
+  xy: 1326, 2
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+zidan_02_00003
+  rotate: false
+  xy: 1646, 6
+  size: 314, 314
+  orig: 314, 314
+  offset: 0, 0
+  index: -1
+zidan_02_00004
+  rotate: false
+  xy: 1006, 22
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+zidan_02_00005
+  rotate: false
+  xy: 1508, 322
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+zidan_02_00006
+  rotate: false
+  xy: 1508, 676
+  size: 378, 378
+  orig: 378, 378
+  offset: 0, 0
+  index: -1
+zidan_02_00007
+  rotate: false
+  xy: 2, 1056
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00008
+  rotate: false
+  xy: 2, 554
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00009
+  rotate: false
+  xy: 2, 52
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00010
+  rotate: false
+  xy: 504, 1056
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00011
+  rotate: false
+  xy: 1006, 1056
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00012
+  rotate: false
+  xy: 1508, 1056
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00013
+  rotate: false
+  xy: 504, 554
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00014
+  rotate: false
+  xy: 504, 52
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+zidan_02_00015
+  rotate: false
+  xy: 1006, 554
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

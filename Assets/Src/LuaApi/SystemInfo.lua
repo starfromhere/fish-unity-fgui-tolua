@@ -1,0 +1,116 @@
+﻿---@class SystemInfo : Object
+---@field public unsupportedIdentifier string
+---@field public batteryLevel Single
+---@field public batteryStatus number
+---@field public operatingSystem string
+---@field public operatingSystemFamily number
+---@field public processorType string
+---@field public processorFrequency Int32
+---@field public processorCount Int32
+---@field public systemMemorySize Int32
+---@field public deviceUniqueIdentifier string
+---@field public deviceName string
+---@field public deviceModel string
+---@field public supportsAccelerometer bool
+---@field public supportsGyroscope bool
+---@field public supportsLocationService bool
+---@field public supportsVibration bool
+---@field public supportsAudio bool
+---@field public deviceType number
+---@field public graphicsMemorySize Int32
+---@field public graphicsDeviceName string
+---@field public graphicsDeviceVendor string
+---@field public graphicsDeviceID Int32
+---@field public graphicsDeviceVendorID Int32
+---@field public graphicsDeviceType number
+---@field public graphicsUVStartsAtTop bool
+---@field public graphicsDeviceVersion string
+---@field public graphicsShaderLevel Int32
+---@field public graphicsMultiThreaded bool
+---@field public renderingThreadingMode number
+---@field public hasHiddenSurfaceRemovalOnGPU bool
+---@field public hasDynamicUniformArrayIndexingInFragmentShaders bool
+---@field public supportsShadows bool
+---@field public supportsRawShadowDepthSampling bool
+---@field public supportsMotionVectors bool
+---@field public supports3DTextures bool
+---@field public supports2DArrayTextures bool
+---@field public supports3DRenderTextures bool
+---@field public supportsCubemapArrayTextures bool
+---@field public copyTextureSupport number
+---@field public supportsComputeShaders bool
+---@field public supportsGeometryShaders bool
+---@field public supportsTessellationShaders bool
+---@field public supportsInstancing bool
+---@field public supportsHardwareQuadTopology bool
+---@field public supports32bitsIndexBuffer bool
+---@field public supportsSparseTextures bool
+---@field public supportedRenderTargetCount Int32
+---@field public supportsSeparatedRenderTargetsBlend bool
+---@field public supportedRandomWriteTargetCount Int32
+---@field public supportsMultisampledTextures Int32
+---@field public supportsMultisampleAutoResolve bool
+---@field public supportsTextureWrapMirrorOnce Int32
+---@field public usesReversedZBuffer bool
+---@field public npotSupport number
+---@field public maxTextureSize Int32
+---@field public maxCubemapSize Int32
+---@field public maxComputeBufferInputsVertex Int32
+---@field public maxComputeBufferInputsFragment Int32
+---@field public maxComputeBufferInputsGeometry Int32
+---@field public maxComputeBufferInputsDomain Int32
+---@field public maxComputeBufferInputsHull Int32
+---@field public maxComputeBufferInputsCompute Int32
+---@field public maxComputeWorkGroupSize Int32
+---@field public maxComputeWorkGroupSizeX Int32
+---@field public maxComputeWorkGroupSizeY Int32
+---@field public maxComputeWorkGroupSizeZ Int32
+---@field public supportsAsyncCompute bool
+---@field public supportsGraphicsFence bool
+---@field public supportsAsyncGPUReadback bool
+---@field public supportsRayTracing bool
+---@field public supportsSetConstantBuffer bool
+---@field public minConstantBufferOffsetAlignment bool
+---@field public hasMipMaxLevel bool
+---@field public supportsMipStreaming bool
+---@field public usesLoadStoreActions bool
+---@field public supportsRenderTextures bool
+---@field public supportsRenderToCubemap bool
+---@field public supportsImageEffects bool
+---@field public supportsStencil Int32
+---@field public graphicsPixelFillrate Int32
+---@field public supportsVertexPrograms bool
+---@field public supportsGPUFence bool
+local SystemInfo={ }
+---@public
+---@param format number
+---@return bool
+function SystemInfo.SupportsRenderTextureFormat(format) end
+---@public
+---@param format number
+---@return bool
+function SystemInfo.SupportsBlendingOnRenderTextureFormat(format) end
+---@public
+---@param format number
+---@return bool
+function SystemInfo.SupportsTextureFormat(format) end
+---@public
+---@param format number
+---@param dimension Int32
+---@return bool
+function SystemInfo.SupportsVertexAttributeFormat(format, dimension) end
+---@public
+---@param format number
+---@param usage number
+---@return bool
+function SystemInfo.IsFormatSupported(format, usage) end
+---@public
+---@param format number
+---@param usage number
+---@return number
+function SystemInfo.GetCompatibleFormat(format, usage) end
+---@public
+---@param format number
+---@return number
+function SystemInfo.GetGraphicsFormat(format) end
+UnityEngine.SystemInfo = SystemInfo

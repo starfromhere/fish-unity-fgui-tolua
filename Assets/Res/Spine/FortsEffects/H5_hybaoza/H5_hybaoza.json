@@ -1,0 +1,101 @@
+{
+"skeleton": { "hash": "ldjmHxTrc7vbIWcSvkGB+xB3D/4", "spine": "3.6.53", "width": 256, "height": 256, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "blastmark005", "parent": "bone" },
+	{ "name": "cjb_065", "parent": "bone" },
+	{ "name": "dilie015", "parent": "bone" },
+	{ "name": "ring_07", "parent": "bone" }
+],
+"slots": [
+	{ "name": "dilie015", "bone": "dilie015", "attachment": "dilie015" },
+	{ "name": "cjb_065", "bone": "cjb_065", "attachment": "cjb_065" },
+	{ "name": "blastmark005", "bone": "blastmark005", "attachment": "blastmark005" },
+	{ "name": "ring_07", "bone": "ring_07", "attachment": "ring_07" }
+],
+"skins": {
+	"default": {
+		"blastmark005": {
+			"blastmark005": { "width": 256, "height": 256 }
+		},
+		"cjb_065": {
+			"cjb_065": { "width": 256, "height": 256 }
+		},
+		"dilie015": {
+			"dilie015": { "width": 256, "height": 256 }
+		},
+		"ring_07": {
+			"ring_07": { "width": 256, "height": 256 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"blastmark005": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"cjb_065": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"dilie015": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"ring_07": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -88.2 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.5,
+						"y": 0.5,
+						"curve": [ 0, 0.52, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 1, "y": 1 }
+				]
+			},
+			"dilie015": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": 67.8 }
+				]
+			},
+			"ring_07": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 0.863, "y": 0.86 },
+					{ "time": 0.4, "x": 1.2, "y": 1.2 }
+				]
+			}
+		}
+	}
+}
+}

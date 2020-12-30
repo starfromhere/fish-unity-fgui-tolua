@@ -1,0 +1,167 @@
+
+H5_baozha8.png
+size: 2012,2012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha8_0
+  rotate: false
+  xy: 2, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_1
+  rotate: false
+  xy: 2, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_10
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_11
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_12
+  rotate: false
+  xy: 806, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_13
+  rotate: false
+  xy: 1208, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_14
+  rotate: false
+  xy: 1610, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_15
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_16
+  rotate: false
+  xy: 806, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_17
+  rotate: false
+  xy: 1208, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_18
+  rotate: false
+  xy: 1610, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_19
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_2
+  rotate: false
+  xy: 404, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_20
+  rotate: false
+  xy: 1208, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_21
+  rotate: false
+  xy: 1610, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_22
+  rotate: false
+  xy: 1208, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_3
+  rotate: false
+  xy: 2, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_4
+  rotate: false
+  xy: 404, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_5
+  rotate: false
+  xy: 806, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_6
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_7
+  rotate: false
+  xy: 404, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_8
+  rotate: false
+  xy: 806, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+baozha8_9
+  rotate: false
+  xy: 1208, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

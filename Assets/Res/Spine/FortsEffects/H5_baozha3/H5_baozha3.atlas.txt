@@ -1,0 +1,111 @@
+
+H5_baozha3.png
+size: 2012,1208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidan03_baozha_00001
+  rotate: false
+  xy: 2, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00002
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00003
+  rotate: false
+  xy: 404, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00004
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00005
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00006
+  rotate: false
+  xy: 806, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00007
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00008
+  rotate: false
+  xy: 806, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00009
+  rotate: false
+  xy: 1208, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00010
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00011
+  rotate: false
+  xy: 1208, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00012
+  rotate: false
+  xy: 1610, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00013
+  rotate: false
+  xy: 1208, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00014
+  rotate: false
+  xy: 1610, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zidan03_baozha_00015
+  rotate: false
+  xy: 1610, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+shenhaiankang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YX_jiazailizi
+  rotate: false
+  xy: 873, 991
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ankang_02
+  rotate: true
+  xy: 433, 592
+  size: 97, 217
+  orig: 97, 217
+  offset: 0, 0
+  index: -1
+ankang_bg
+  rotate: false
+  xy: 2, 594
+  size: 429, 426
+  orig: 429, 426
+  offset: 0, 0
+  index: -1
+ankang_shou01
+  rotate: true
+  xy: 2, 24
+  size: 158, 240
+  orig: 158, 240
+  offset: 0, 0
+  index: -1
+ankang_wenzi
+  rotate: false
+  xy: 433, 873
+  size: 438, 147
+  orig: 438, 147
+  offset: 0, 0
+  index: -1
+ankang_yuti
+  rotate: false
+  xy: 2, 184
+  size: 347, 408
+  orig: 347, 408
+  offset: 0, 0
+  index: -1
+shandain_0
+  rotate: false
+  xy: 433, 691
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_10
+  rotate: false
+  xy: 533, 228
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_12
+  rotate: false
+  xy: 244, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_14
+  rotate: false
+  xy: 426, 46
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_2
+  rotate: false
+  xy: 615, 691
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_4
+  rotate: false
+  xy: 351, 410
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_6
+  rotate: false
+  xy: 351, 228
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shandain_8
+  rotate: false
+  xy: 533, 410
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

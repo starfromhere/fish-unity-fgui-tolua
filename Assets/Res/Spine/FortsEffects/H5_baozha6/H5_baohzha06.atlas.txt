@@ -1,0 +1,90 @@
+
+H5_baohzha06.png
+size: 1930,1448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha06_1
+  rotate: false
+  xy: 2, 966
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_10
+  rotate: false
+  xy: 966, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_11
+  rotate: false
+  xy: 1448, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_12
+  rotate: false
+  xy: 1448, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_2
+  rotate: false
+  xy: 2, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_3
+  rotate: false
+  xy: 484, 966
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_4
+  rotate: false
+  xy: 2, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_5
+  rotate: false
+  xy: 484, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_6
+  rotate: false
+  xy: 966, 966
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_7
+  rotate: false
+  xy: 484, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_8
+  rotate: false
+  xy: 966, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+baozha06_9
+  rotate: false
+  xy: 1448, 966
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1

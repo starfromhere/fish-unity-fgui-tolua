@@ -1,0 +1,104 @@
+
+H5_hbhl.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hbhl_BGG
+  rotate: false
+  xy: 2, 349
+  size: 1426, 672
+  orig: 1426, 672
+  offset: 0, 0
+  index: -1
+hbhl_body
+  rotate: true
+  xy: 2, 98
+  size: 249, 401
+  orig: 249, 401
+  offset: 0, 0
+  index: -1
+hbhl_caida02
+  rotate: false
+  xy: 1693, 700
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+hbhl_caida03
+  rotate: false
+  xy: 1430, 424
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+hbhl_caidai01
+  rotate: false
+  xy: 690, 203
+  size: 135, 90
+  orig: 135, 90
+  offset: 0, 0
+  index: -1
+hbhl_caoqun
+  rotate: false
+  xy: 1693, 776
+  size: 229, 118
+  orig: 229, 118
+  offset: 0, 0
+  index: -1
+hbhl_gg
+  rotate: false
+  xy: 405, 295
+  size: 562, 52
+  orig: 562, 52
+  offset: 0, 0
+  index: -1
+hbhl_hailang
+  rotate: false
+  xy: 2, 2
+  size: 386, 94
+  orig: 386, 94
+  offset: 0, 0
+  index: -1
+hbhl_hailang01
+  rotate: false
+  xy: 1430, 896
+  size: 512, 125
+  orig: 512, 125
+  offset: 0, 0
+  index: -1
+hbhl_huaban
+  rotate: false
+  xy: 1430, 511
+  size: 242, 159
+  orig: 242, 159
+  offset: 0, 0
+  index: -1
+hbhl_piaidai01
+  rotate: true
+  xy: 405, 135
+  size: 158, 283
+  orig: 158, 283
+  offset: 0, 0
+  index: -1
+hbhl_piaidai02
+  rotate: false
+  xy: 1430, 672
+  size: 261, 222
+  orig: 261, 222
+  offset: 0, 0
+  index: -1
+hbhl_youshou
+  rotate: false
+  xy: 969, 297
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+hbhl_zuoshou
+  rotate: true
+  xy: 1944, 962
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1

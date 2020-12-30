@@ -1,0 +1,111 @@
+
+H5_tanchufacai.png
+size: 2010,906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_tieqianxiewang_xxgg01
+  rotate: false
+  xy: 1606, 324
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+font-fcl
+  rotate: true
+  xy: 1606, 358
+  size: 546, 200
+  orig: 546, 200
+  offset: 0, 0
+  index: -1
+font-zfl
+  rotate: true
+  xy: 1808, 358
+  size: 546, 200
+  orig: 546, 200
+  offset: 0, 0
+  index: -1
+img-di
+  rotate: false
+  xy: 2, 238
+  size: 1000, 666
+  orig: 1000, 666
+  offset: 0, 0
+  index: -1
+img-guang
+  rotate: false
+  xy: 1004, 304
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+img-hg
+  rotate: true
+  xy: 1814, 100
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+img-jinbi-01
+  rotate: false
+  xy: 1004, 174
+  size: 808, 128
+  orig: 808, 128
+  offset: 0, 0
+  index: -1
+img-jinbi-texiaoyong01
+  rotate: false
+  xy: 1494, 76
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+img-jinbi-texiaoyong02
+  rotate: true
+  xy: 1794, 2
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+img-jinbi-texiaoyong03
+  rotate: true
+  xy: 1727, 78
+  size: 94, 65
+  orig: 94, 65
+  offset: 0, 0
+  index: -1
+img-jinbi-texiaoyong04
+  rotate: false
+  xy: 1610, 77
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+img-jinbi-xia
+  rotate: false
+  xy: 1266, 10
+  size: 226, 162
+  orig: 226, 162
+  offset: 0, 0
+  index: -1
+img-jinbi-you
+  rotate: true
+  xy: 872, 66
+  size: 170, 124
+  orig: 170, 124
+  offset: 0, 0
+  index: -1
+img-jinbi-zuo
+  rotate: false
+  xy: 998, 64
+  size: 266, 108
+  orig: 266, 108
+  offset: 0, 0
+  index: -1
+img-shuzi-di
+  rotate: false
+  xy: 2, 22
+  size: 868, 214
+  orig: 868, 214
+  offset: 0, 0
+  index: -1

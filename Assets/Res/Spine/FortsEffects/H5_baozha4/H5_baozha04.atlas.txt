@@ -1,0 +1,69 @@
+
+H5_baozha04.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha4_1
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_2
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_3
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_4
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_5
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_6
+  rotate: false
+  xy: 1206, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_7
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_8
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+baozha4_9
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_BangWangJin
+  m_Shader: {fileID: 4800000, guid: 01fb5af5f43fa2e4db6ba204c2b3d800, type: 3}
+  m_ShaderKeywords: _BOWEN_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _G:
+        m_Texture: {fileID: 8900000, guid: 55b3f39dbc349924eb15699d5d275fe5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GI:
+        m_Texture: {fileID: 8900000, guid: 9b7f21218a0984d4d9ab84f6075a6c37, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a2e3af33d9b8a4021837a912dbb9eab9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Tex:
+        m_Texture: {fileID: 2800000, guid: a2e3af33d9b8a4021837a912dbb9eab9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RmatcapGGI:
+        m_Texture: {fileID: 2800000, guid: 5fcebadf7789900439aee5c7236b0ca4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 910febbc89cee4267a31dceed214bf2e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcaptex:
+        m_Texture: {fileID: 2800000, guid: 25197f45a9ab5c04ba8e2e4fda6d5a6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcup:
+        m_Texture: {fileID: 2800000, guid: 7dc6ae0b9d1bb584bb7926477c378859, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _nm:
+        m_Texture: {fileID: 2800000, guid: afb498501e0734701af0371b6a55237f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normal:
+        m_Texture: {fileID: 2800000, guid: 8d9bbb51e1628d34f970052b0d08d5e7, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _tex:
+        m_Texture: {fileID: 2800000, guid: a2e3af33d9b8a4021837a912dbb9eab9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - DirX: -1
+    - DirZ: 0.031
+    - Distanec_Fade_Factor: 0
+    - Fade_Factor: 0.5
+    - Ground_Height: 5
+    - _Brightness: 1.8
+    - _Color2OverlayType: 0
+    - _Contrast: 1
+    - _CoverageLevel: 0.39
+    - _Cutoff: 0.5
+    - _Explore: 2
+    - _GI_power: 0.81
+    - _Saturation: 1
+    - _Toggle: 0
+    - __dirty: 0
+    - _bowen: 1
+    - _normalpower: 0.52
+    m_Colors:
+    - Shadow_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 1.5157166, g: 1.5157166, b: 1.5157166, a: 0}
+    - _Color1: {r: 0, g: 0, b: 0, a: 0}
+    - _Main_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _ShadowColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}
+    - _ShadowPara: {r: 0, g: 0, b: 0.77, a: -0.87}
+    - _ShadowPlane: {r: 0, g: 0, b: 2.8, a: 77.2}
+    - _Vector0: {r: 10, g: 10, b: 0, a: 0}
+    - _fresnel: {r: 0.2735849, g: 0.14840691, b: 0.14840691, a: 0}
+    - _lightDirection: {r: 0, g: 0.11, b: -3.94, a: -3.73}
+    - _matcapcolor: {r: 1.5547322, g: 1.3308728, b: 0.7406979, a: 0}
+    - _tex_Color: {r: 0.8584906, g: 0.7329566, b: 0.7329566, a: 0}

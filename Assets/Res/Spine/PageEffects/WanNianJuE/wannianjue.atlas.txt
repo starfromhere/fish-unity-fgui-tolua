@@ -1,0 +1,76 @@
+
+wannianjue.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyu_body
+  rotate: false
+  xy: 481, 744
+  size: 348, 276
+  orig: 348, 276
+  offset: 0, 0
+  index: -1
+eyu_shanhu2
+  rotate: false
+  xy: 2, 2
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+eyu_shou2
+  rotate: false
+  xy: 831, 893
+  size: 159, 127
+  orig: 159, 127
+  offset: 0, 0
+  index: -1
+eyu_shoubi
+  rotate: false
+  xy: 167, 242
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+eyu_shuicao
+  rotate: false
+  xy: 481, 587
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+eyu_tou
+  rotate: false
+  xy: 338, 418
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+eyu_weiba
+  rotate: false
+  xy: 481, 655
+  size: 225, 87
+  orig: 225, 87
+  offset: 0, 0
+  index: -1
+eyu_zhuanlun
+  rotate: false
+  xy: 167, 390
+  size: 169, 155
+  orig: 169, 155
+  offset: 0, 0
+  index: -1
+wannianeyu_wenzi
+  rotate: true
+  xy: 2, 59
+  size: 486, 163
+  orig: 486, 163
+  offset: 0, 0
+  index: -1
+xie_bg
+  rotate: false
+  xy: 2, 547
+  size: 477, 473
+  orig: 477, 473
+  offset: 0, 0
+  index: -1

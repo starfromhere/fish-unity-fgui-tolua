@@ -1,0 +1,43 @@
+{
+"skeleton": { "hash": "l22x6HcbdW+YVVpUxG3q+TZPvys", "spine": "3.6.53", "width": 600, "height": 600, "images": "" },
+"bones": [
+	{ "name": "root", "y": -141.03 }
+],
+"slots": [
+	{ "name": "baozha4_1", "bone": "root", "attachment": "baozha4_9" }
+],
+"skins": {
+	"default": {
+		"baozha4_1": {
+			"baozha4_1": { "width": 600, "height": 600 },
+			"baozha4_2": { "width": 600, "height": 600 },
+			"baozha4_3": { "width": 600, "height": 600 },
+			"baozha4_4": { "width": 600, "height": 600 },
+			"baozha4_5": { "width": 600, "height": 600 },
+			"baozha4_6": { "width": 600, "height": 600 },
+			"baozha4_7": { "width": 600, "height": 600 },
+			"baozha4_8": { "width": 600, "height": 600 },
+			"baozha4_9": { "width": 600, "height": 600 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"baozha4_1": {
+				"attachment": [
+					{ "time": 0, "name": "baozha4_1" },
+					{ "time": 0.0667, "name": "baozha4_2" },
+					{ "time": 0.1, "name": "baozha4_3" },
+					{ "time": 0.1667, "name": "baozha4_4" },
+					{ "time": 0.2, "name": "baozha4_5" },
+					{ "time": 0.3, "name": "baozha4_6" },
+					{ "time": 0.3333, "name": "baozha4_7" },
+					{ "time": 0.4, "name": "baozha4_8" },
+					{ "time": 0.4333, "name": "baozha4_9" }
+				]
+			}
+		}
+	}
+}
+}

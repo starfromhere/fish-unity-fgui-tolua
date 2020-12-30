@@ -1,0 +1,41 @@
+
+dt_ksks.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_ksks_jiantou02
+  rotate: false
+  xy: 2, 2
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+dt_ksks_paopao
+  rotate: false
+  xy: 438, 53
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dt_ksks_shuidi
+  rotate: false
+  xy: 2, 47
+  size: 434, 157
+  orig: 434, 157
+  offset: 0, 0
+  index: -1
+dt_ksks_wenzi
+  rotate: false
+  xy: 438, 84
+  size: 337, 120
+  orig: 337, 120
+  offset: 0, 0
+  index: -1
+dt_ksks_zhangyu
+  rotate: false
+  xy: 777, 61
+  size: 204, 143
+  orig: 204, 143
+  offset: 0, 0
+  index: -1

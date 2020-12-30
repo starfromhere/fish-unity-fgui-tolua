@@ -1,0 +1,62 @@
+
+H5_hd_sheng.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_sheng_guang001
+  rotate: false
+  xy: 1153, 220
+  size: 361, 248
+  orig: 361, 248
+  offset: 0, 0
+  index: -1
+H5_sheng_guang002
+  rotate: false
+  xy: 1849, 309
+  size: 162, 159
+  orig: 162, 159
+  offset: 0, 0
+  index: -1
+H5_sheng_lizi001
+  rotate: false
+  xy: 694, 190
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+H5_sheng_liziguang
+  rotate: false
+  xy: 1516, 304
+  size: 331, 164
+  orig: 331, 164
+  offset: 0, 0
+  index: -1
+H5_sheng_mianban
+  rotate: false
+  xy: 2, 2
+  size: 690, 256
+  orig: 690, 256
+  offset: 0, 0
+  index: -1
+H5_sheng_piaodai
+  rotate: false
+  xy: 2, 260
+  size: 760, 208
+  orig: 760, 208
+  offset: 0, 0
+  index: -1
+H5_sheng_xiaomai
+  rotate: true
+  xy: 1516, 130
+  size: 172, 313
+  orig: 172, 313
+  offset: 0, 0
+  index: -1
+H5_sheng_yurjb
+  rotate: false
+  xy: 764, 148
+  size: 387, 320
+  orig: 387, 320
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+3zhuang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 362, 678
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 688, 678
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+3_03
+  rotate: false
+  xy: 328, 282
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 328, 396
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 2, 654
+  size: 358, 348
+  orig: 358, 348
+  offset: 0, 0
+  index: -1
+img_zhadan
+  rotate: false
+  xy: 328, 188
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1

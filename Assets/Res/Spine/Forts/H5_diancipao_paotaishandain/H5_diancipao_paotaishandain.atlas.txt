@@ -1,0 +1,139 @@
+
+H5_diancipao_paotaishandain.png
+size: 1412,1130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian_0
+  rotate: false
+  xy: 2, 848
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_1
+  rotate: false
+  xy: 2, 566
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_10
+  rotate: false
+  xy: 1130, 848
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_11
+  rotate: false
+  xy: 284, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_12
+  rotate: false
+  xy: 566, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_13
+  rotate: false
+  xy: 848, 566
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_14
+  rotate: false
+  xy: 1130, 566
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_15
+  rotate: false
+  xy: 566, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_16
+  rotate: false
+  xy: 848, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_17
+  rotate: false
+  xy: 1130, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_18
+  rotate: false
+  xy: 848, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_2
+  rotate: false
+  xy: 284, 848
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_3
+  rotate: false
+  xy: 2, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_4
+  rotate: false
+  xy: 284, 566
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_5
+  rotate: false
+  xy: 566, 848
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_6
+  rotate: false
+  xy: 2, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_7
+  rotate: false
+  xy: 284, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_8
+  rotate: false
+  xy: 566, 566
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+shandian_9
+  rotate: false
+  xy: 848, 848
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

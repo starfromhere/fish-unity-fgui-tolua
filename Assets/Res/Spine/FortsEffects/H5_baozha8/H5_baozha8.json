@@ -1,0 +1,71 @@
+{
+"skeleton": { "hash": "wWLMzesl1CMwew2sNzUFgn3drbg", "spine": "3.6.53", "width": 500, "height": 500, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "baozha8_0", "bone": "root", "attachment": "baozha8_21" }
+],
+"skins": {
+	"default": {
+		"baozha8_0": {
+			"baozha8_0": { "width": 500, "height": 500 },
+			"baozha8_1": { "width": 500, "height": 500 },
+			"baozha8_2": { "width": 500, "height": 500 },
+			"baozha8_3": { "width": 500, "height": 500 },
+			"baozha8_4": { "width": 500, "height": 500 },
+			"baozha8_5": { "width": 500, "height": 500 },
+			"baozha8_6": { "width": 500, "height": 500 },
+			"baozha8_7": { "width": 500, "height": 500 },
+			"baozha8_8": { "width": 500, "height": 500 },
+			"baozha8_9": { "width": 500, "height": 500 },
+			"baozha8_10": { "width": 500, "height": 500 },
+			"baozha8_11": { "width": 500, "height": 500 },
+			"baozha8_12": { "width": 500, "height": 500 },
+			"baozha8_13": { "width": 500, "height": 500 },
+			"baozha8_14": { "width": 500, "height": 500 },
+			"baozha8_15": { "width": 500, "height": 500 },
+			"baozha8_16": { "width": 500, "height": 500 },
+			"baozha8_17": { "width": 500, "height": 500 },
+			"baozha8_18": { "width": 500, "height": 500 },
+			"baozha8_19": { "width": 500, "height": 500 },
+			"baozha8_20": { "width": 500, "height": 500 },
+			"baozha8_21": { "width": 500, "height": 500 },
+			"baozha8_22": { "width": 500, "height": 500 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"baozha8_0": {
+				"attachment": [
+					{ "time": 0, "name": "baozha8_0" },
+					{ "time": 0.0333, "name": "baozha8_1" },
+					{ "time": 0.0667, "name": "baozha8_2" },
+					{ "time": 0.1, "name": "baozha8_3" },
+					{ "time": 0.1333, "name": "baozha8_4" },
+					{ "time": 0.1667, "name": "baozha8_5" },
+					{ "time": 0.2, "name": "baozha8_6" },
+					{ "time": 0.2333, "name": "baozha8_7" },
+					{ "time": 0.2667, "name": "baozha8_8" },
+					{ "time": 0.3, "name": "baozha8_9" },
+					{ "time": 0.3333, "name": "baozha8_10" },
+					{ "time": 0.3667, "name": "baozha8_11" },
+					{ "time": 0.4, "name": "baozha8_12" },
+					{ "time": 0.4333, "name": "baozha8_13" },
+					{ "time": 0.4667, "name": "baozha8_14" },
+					{ "time": 0.5, "name": "baozha8_15" },
+					{ "time": 0.5333, "name": "baozha8_16" },
+					{ "time": 0.5667, "name": "baozha8_17" },
+					{ "time": 0.6, "name": "baozha8_18" },
+					{ "time": 0.6333, "name": "baozha8_19" },
+					{ "time": 0.6667, "name": "baozha8_20" },
+					{ "time": 0.7, "name": "baozha8_21" },
+					{ "time": 0.7333, "name": "baozha8_22" }
+				]
+			}
+		}
+	}
+}
+}

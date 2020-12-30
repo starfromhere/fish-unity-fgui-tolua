@@ -1,0 +1,48 @@
+
+haiyangshijie.png
+size: 884,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haiyang_chuan
+  rotate: false
+  xy: 481, 188
+  size: 401, 462
+  orig: 401, 462
+  offset: 0, 0
+  index: -1
+haiyang_fanbu
+  rotate: false
+  xy: 491, 2
+  size: 213, 184
+  orig: 213, 184
+  offset: 0, 0
+  index: -1
+haiyang_shu
+  rotate: false
+  xy: 706, 87
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+haiyang_wenzi
+  rotate: false
+  xy: 2, 12
+  size: 487, 163
+  orig: 487, 163
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 706, 2
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+xie_bg
+  rotate: false
+  xy: 2, 177
+  size: 477, 473
+  orig: 477, 473
+  offset: 0, 0
+  index: -1
